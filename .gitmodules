@@ -10,3 +10,6 @@
 [submodule "health_manager"]
 	path = health_manager
 	url = https://github.com/cloudfoundry/health_manager.git
+[submodule "vcap-services"]
+	path = vcap-services
+	url = https://github.com/cloudfoundry/vcap-services.git
